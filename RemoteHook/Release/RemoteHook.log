@@ -1,0 +1,6 @@
+﻿  Injector.cpp
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\easyhook.h(40): warning C4005: “_WIN32_WINNT”: 宏重定义
+          c:\temp\project\remotehook\remotehook\targetver.h(11) : 参见“_WIN32_WINNT”的前一个定义
+  正在生成代码
+  已完成代码的生成
+  RemoteHook.vcxproj -> C:\temp\project\RemoteHook\Release\Injector.exe

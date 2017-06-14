@@ -1,0 +1,10 @@
+﻿  BeepHookDll.cpp
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\easyhook.h(39): warning C4005: “NTDDI_VERSION”: 宏重定义
+          C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\sdkddkver.h(203) : 参见“NTDDI_VERSION”的前一个定义
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\easyhook.h(40): warning C4005: “_WIN32_WINNT”: 宏重定义
+          c:\temp\project\remotehook\beephookdll\targetver.h(15) : 参见“_WIN32_WINNT”的前一个定义
+  dllmain.cpp
+     正在创建库 C:\temp\project\RemoteHook\Release\BeepHookDll.lib 和对象 C:\temp\project\RemoteHook\Release\BeepHookDll.exp
+  正在生成代码
+  已完成代码的生成
+  BeepHookDll.vcxproj -> C:\temp\project\RemoteHook\Release\BeepHookDll.dll
